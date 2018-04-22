@@ -1,0 +1,24 @@
+body {
+    background: pink;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+ #title {
+    background: orange;
+    color: white;
+    padding: 10px 0;
+}
+
+.para {
+    background: lightgoldenrodyellow;
+    padding: 10px 0;
+}
+
+h1#number {
+    border: 1px solid balck;
+}
