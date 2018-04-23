@@ -2,6 +2,10 @@ body {
     background: pink;
 }
 
+.container {
+    margin: 30px auto;
+}
+
 img {
     height: 100px;
     width: 100px;
@@ -16,9 +20,7 @@ img {
 
 .para {
     background: lightgoldenrodyellow;
-    padding: 10px 0;
+    padding: 20px 0;
+    margin: 20px auto;
 }
 
-h1#number {
-    border: 1px solid balck;
-}
