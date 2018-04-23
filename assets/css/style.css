@@ -1,5 +1,7 @@
 body {
-    background: pink;
+    background-image: url("https://st2.depositphotos.com/1192512/5197/v/950/depositphotos_51979949-stock-illustration-colorful-abstract-crystal-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
@@ -13,14 +15,17 @@ img {
 }
 
  #title {
-    background: orange;
+    background: lightblue;
     color: white;
-    padding: 10px 0;
+    text-align: center;
+    padding: 20px 0;
+    margin: auto;
 }
 
 .para {
     background: lightgoldenrodyellow;
     padding: 20px 0;
-    margin: 20px auto;
+    margin: 10px auto;
+    text-align: center;
 }
 
